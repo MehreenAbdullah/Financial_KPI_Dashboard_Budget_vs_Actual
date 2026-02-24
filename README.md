@@ -2,6 +2,6 @@
 Budget vs Actual Financial Performance Dashboard
 ## Dashboard Preview
 
-![Dashboard Part 1](dashboard_overview_1.png)
+![Dashboard Part 1]("C:\Users\ASUS\OneDrive\Desktop\dashboard_overview_1.png.png")
 
-![Dashboard Part 2](dashboard_visualization2.png)
+![Dashboard Part 2]("C:\Users\ASUS\OneDrive\Desktop\dashboard_visualization2.png")
