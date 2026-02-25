@@ -1,12 +1,10 @@
 ## Project Overview
-This project presents a Financial KPI Dashboard developed in Excel to simulate a structured monthly performance review process. The dashboard consolidates revenue, expense, profitability, and operational metrics into a single reporting interface designed to support management decision-making.
-The model focuses on tracking Budget vs Actual performance across business units, identifying cost variances, evaluating revenue trends, and assessing overall profitability through EBIT analysis. In addition to financial metrics, the dashboard incorporates working capital indicators such as debtors aging and operational drivers including hiring trends, enabling a more integrated performance view.
-The objective of this dashboard is to demonstrate how raw financial data can be transformed into an executive-ready reporting framework that highlights performance gaps, cost pressures, and growth trends in a clear and structured format.
+This project presents a Financial KPI Dashboard built in Excel to review monthly performance against budget and prior year results. The dashboard consolidates revenue, expenses, EBIT, and operational indicators into a single reporting view.
+The focus of the model is on identifying budget variances, tracking revenue growth, monitoring departmental cost behavior, and assessing profitability trends. It also includes debtor aging and hiring data to link operational activity with financial impact.
+The objective is to demonstrate how financial data can be structured into a clear reporting format that supports performance review and cost control discussions.
 
 ##Business Objective:
-The objective of this dashboard is to support structured financial performance review by comparing actual results against budget and prior year benchmarks. The model focuses on identifying revenue trends, monitoring departmental cost variances, evaluating profitability movement, and assessing working capital indicators.
-It is designed to reflect a month-end management reporting process where financial and operational metrics are reviewed to understand performance gaps, cost pressures, and overall business direction.
-
+The dashboard is designed to simulate a month-end performance review process. It compares actual results with budgeted figures, highlights key variances, and provides visibility into cost distribution and profitability movement across business units.
 
 ## Key Metrics Covered:
 The dashboard tracks revenue and expense performance against budget, highlighting monthly and annual variance trends. It evaluates EBIT movement to assess profitability impact and monitors performance target achievement to identify execution gaps.
