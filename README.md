@@ -2,9 +2,7 @@
 
 Project Overview
 ---
-This project presents a Financial KPI Dashboard built in Excel to review month-on-month performance against budget and prior year results. The dashboard consolidates revenue, expenses, EBIT, and operational indicators into a single reporting view.
-The focus of the model is on identifying budget variances, tracking revenue growth, monitoring departmental cost behavior, and assessing profitability trends. It also include debtor aging and hiring data to link operational activity with financial impact.
-The objective is to demonstrate how financial data can be structured into a clear reporting format that supports performance review and cost control discussions.
+This is a Financial KPI Dashboard built in Excel to track month-on-month performance against budget and prior year results. It brings together revenue, expenses, EBIT, and key operational indicators into a single reporting view for structured analysis. The focus is on identifying budget variances, monitoring revenue growth, evaluating departmental cost behavior, and understanding profitability trends. It also incorporates debtor aging and hiring data to connect operational activity with financial impact. The purpose is to show how financial information can be organized into a clear, decision-focused reporting format for performance monitoring and cost control discussions.
 
 Business Objective:
 ---
